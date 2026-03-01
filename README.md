@@ -1,7 +1,7 @@
 # Fixed error
-2026.3.1 fixed，git clone 
+2026.3.1 fixed，install it by "git clone ..."
 
-Extracting /tmp/openclaw-npm-pack-w6TGXF/mcp-adapter-0.0.1.tgz…
+Extracting /tmp/openclaw-npm-pack-xxx/mcp-adapter-0.0.1.tgz…
 Error: package.json missing openclaw.extensions
 
 # MCP Adapter (OpenClaw Plugin)
