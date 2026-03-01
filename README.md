@@ -1,5 +1,5 @@
 # Fixed error
-2026.3.1 fixed
+2026.3.1 fixed，git clone 
 
 Extracting /tmp/openclaw-npm-pack-w6TGXF/mcp-adapter-0.0.1.tgz…
 Error: package.json missing openclaw.extensions
@@ -19,13 +19,7 @@ Instead of running MCP servers through a CLI skill, this plugin connects to your
 ## Installation
 
 ```bash
-~ openclaw plugins install mcp-adapter ~
-```
-
-**Alternative: install from source**
-
-```bash
-git clone https://github.com/androidStern/openclaw-mcp-adapter.git
+git clone https://github.com/dst1213/openclaw-mcp-adapter-fixed.git
 openclaw plugins install ./openclaw-mcp-adapter
 ```
 
