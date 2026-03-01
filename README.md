@@ -19,7 +19,7 @@ Instead of running MCP servers through a CLI skill, this plugin connects to your
 ## Installation
 
 ```bash
-openclaw plugins install mcp-adapter
+~ openclaw plugins install mcp-adapter ~
 ```
 
 **Alternative: install from source**
