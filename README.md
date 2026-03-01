@@ -1,3 +1,9 @@
+# Fixed error
+2026.3.1 fixed
+
+Extracting /tmp/openclaw-npm-pack-w6TGXF/mcp-adapter-0.0.1.tgz…
+Error: package.json missing openclaw.extensions
+
 # MCP Adapter (OpenClaw Plugin)
 
 Exposes MCP (Model Context Protocol) server tools as native OpenClaw agent tools.
